@@ -1,0 +1,6 @@
+framework module Pods_ImageEditorApp {
+  umbrella header "Pods-ImageEditorApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

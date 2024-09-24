@@ -1,0 +1,20 @@
+PODS:
+  - R.swift (7.3.2)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - R.swift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - R.swift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 038ffd26fc35cdca2b55caae561a351156541e79
+
+COCOAPODS: 1.15.2
